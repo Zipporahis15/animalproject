@@ -1,12 +1,12 @@
 body{
-	color: white;
-	font-font-family: arial;
+	 color: white;
+	font-font-family: georgia;
 	width: 850px;
 	margin: auto;
-	background-image: url('images/creepyowl.jpg'); 
+	background-image: url <a href=img src('images/cache/cache_b/cache_6/cache_1/hare-9d50a16b.jpeg?');</a> 
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-color: black;
+	background-color: #b3daff;
 }
 
 nav{
@@ -34,17 +34,17 @@ nav a{
 	background-image: url("images/photo.png")
 }
 h1{
-	background-image: url('images/owleyes.jpg');
+	background-image: url('images/cache/cache_b/cache_6/cache_1/hare-9d50a16b.jpeg?');
 	background-repeat: no-repeat;
 	text-align: center;
-	color: orange;
+	color: white;
 	font-size: 50px;
 	font-font-family: arial;
 	padding: 50px;
 	text-shadow: 2px 2px black;
 }
 h2{
-	color: orange;
+	color: white;
 }
 p{
 	line-height: 25px;
@@ -53,7 +53,7 @@ p{
 /*links page*/
 .list{
 	font-size: 24px;
-	list-style-image: url('images/owlhead.png');
+	list-style-image: url('images/cache/cache_b/cache_6/cache_1/hare-9d50a16b.jpeg?');
 	list-style: 16x16px;
 }
 a:hover{
